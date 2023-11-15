@@ -14,7 +14,7 @@
 
 
 ------------------------------------------- 
-## ** 2.Paso a paso trabajo con el repositorio (Git-Bash)**
+## * 2.Paso a paso trabajo con el repositorio (Git-Bash)*
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/f482a648-63f4-4d6b-b531-91e41a0d934f)
 
 ###### Aqui ulitlize el comando  "git clone" y el url del repositorio para realizar la clonacion del repositorio.
@@ -25,18 +25,19 @@
 ###### Ahora puedo entrar al rama main del repositorio con el comando "cd /"
 ----------------------
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/0ea4f128-d7d0-4b50-aca7-c36ab1978875)
-
+###### Ahora ultilizando git status, confirmo el status del rama main.
 ------------------------
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/86e41c98-7a90-4ee4-ae74-c2bc20b4ee32)
-
+###### Ahora utilizamos el comando de git Branch para crear la nueva rama en la cual vamos a poner la versión final de nuestro programa. Para cambiar a esa rama, vamos a utilizar el comando git Checkout, y después vamos a poner el comando git add para añadir los cambios que vamos a hacer en el repositorio. 
 ------------------------
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/3d195e24-ba60-42e1-a6bb-e5ab1f3b2db8)
-
+###### Aquí git commit -m se utiliza para confirmar los cambios que se van a hacer en el repositorio.  
 ------------------------
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/091f8c43-9af2-4ca9-a692-8da7564e7497)
+###### Se utilizará git push para subir los cambios del repositorio local al repositorio que esta en la línea. 
 ------------------------
-![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/de316acc-e840-4a78-93e5-08ae3937b50b)
-------------------------
+![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/de316acc-e840-4a78-93e5-08ae3937b50b) 
+
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/86679085-161d-4652-8741-2bad32d8570b) 
 -------------------------
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/f255ee77-5dac-4081-a159-2b4cca962c77)
