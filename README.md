@@ -44,8 +44,6 @@
 
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/3b1f0bde-2696-4bb4-9819-2fd1c9085720)
 
-![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/9da7eeb4-ba82-4bda-aa7f-da96264e232f)
-
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/d3b60b46-e258-487f-b759-7716a63b4a9f)
 
 
