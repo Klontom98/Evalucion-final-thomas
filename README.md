@@ -15,6 +15,6 @@
 
 ------------------------------------------- 
 ## **Paso a paso trabajo con el repositorio (Git-Bash)**
-![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/7ac5b971-5df7-441f-b521-8d6d5a0af31d)
+![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/f482a648-63f4-4d6b-b531-91e41a0d934f)
 
 ### Aqui ultilize el comando 
