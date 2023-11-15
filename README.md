@@ -5,6 +5,8 @@
 ------- 
 ##1. Las operaciones en python. 
 ## *menu.py*
+![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/f8d33320-5d35-43d0-9c62-a5f6cb2a5ae1)
+
 ---------
 
 ## *operaciones.py*
