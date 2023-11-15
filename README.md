@@ -14,14 +14,15 @@
 
 
 ------------------------------------------- 
-## **Paso a paso trabajo con el repositorio (Git-Bash)**
+## ** 2.Paso a paso trabajo con el repositorio (Git-Bash)**
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/f482a648-63f4-4d6b-b531-91e41a0d934f)
 
-### Aqui ultilize el comando 
+###### Aqui ulitlize el comando  "git clone" y el url del repositorio para realizar la clonacion del repositorio.
 
 ----------------------
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/a1ff9cc9-98dc-4cd4-95eb-e22afa2cdf1a) 
 
+###### Ahora puedo entrar al rama main del repositorio con el comando "cd /"
 ----------------------
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/0ea4f128-d7d0-4b50-aca7-c36ab1978875)
 
