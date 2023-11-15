@@ -20,3 +20,6 @@
 ### Aqui ultilize el comando 
 
 
+![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/a1ff9cc9-98dc-4cd4-95eb-e22afa2cdf1a)
+
+
