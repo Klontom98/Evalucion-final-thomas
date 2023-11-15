@@ -3,7 +3,7 @@
 ##### Nombre: Thomas David Gomez Tamayo
 ##### Usuario de Github: Klontom98
 ------- 
-##1. Las operaciones en python. 
+## 1. Las operaciones en python. 
 ## *menu.py*
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/f8d33320-5d35-43d0-9c62-a5f6cb2a5ae1)
 
@@ -13,4 +13,5 @@
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/ba6fb940-c103-4bb2-a18f-817c1685d2e0)
 
 
-
+------------------------------------------- 
+## **Paso a paso trabajo con el repositorio (Git-Bash)**
