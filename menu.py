@@ -1,4 +1,4 @@
-from operations import get_ascii,get_binary,get_result 
+from operations import get_ascii,get_binary,get_result
 import sys
 
 
@@ -12,6 +12,5 @@ elif(menu==2):
 else:
     sys.exit()
 print('Results\n=======')
-
 results = get_result(word)
-print('Total: {0}'.format(results))
+print('total: {0}'.format(results))
