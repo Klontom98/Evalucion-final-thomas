@@ -12,10 +12,11 @@
 ## *operaciones.py*
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/ba6fb940-c103-4bb2-a18f-817c1685d2e0)
 
-| Syntax | Description |
+| Definicion | explicacion |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| get_ascii | El propósito de este operación es tomar el palabra o carácter que digito el usuario y utilizando el función ord() para convertir cada carácter en un número que representa su valor ascii, después retorna una lista con todos los números.  |
+| get_binary |  | 
+| get_result   |      |
 ------------------------------------------- 
 ## * 2.Paso a paso trabajo con el repositorio (Git-Bash)*
 ![imagen](https://github.com/Klontom98/Evalucion-final-thomas/assets/148237143/f482a648-63f4-4d6b-b531-91e41a0d934f)
